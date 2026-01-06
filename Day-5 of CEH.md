@@ -120,7 +120,7 @@ Reconnaissance is the continuation of footprinting where collected information i
 - ip://<IP_Address>
 - This is used to check whether the website responds directly through its IP address instead of a domain name.
 <center>
-  <img src="images/110.jpg" alt="Image2">
+  <img src="images/110.jpeg" alt="Image2">
 </center>
 
 <center>
@@ -245,9 +245,9 @@ Reconnaissance is the continuation of footprinting where collected information i
   - ./hound.sh
 
 <center>
-  <img src="images/123.png" alt="Image2">
+  <img src="images/123.jpeg" alt="Image2">
 </center>
 
 <center>
-  <img src="images/124.png" alt="Image2">
+  <img src="images/124.jpeg" alt="Image2">
 </center>
