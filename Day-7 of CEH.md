@@ -282,25 +282,24 @@
 
 pt is a command-line tool that lets you use ChatGPT directly from the Linux terminal (Parrot OS, Kali Linux, Ubuntu, etc.).
 
-When you run:
+**When you run:**
 
-**tgpt --help**
+`tgpt --help` 
 (or sometimes tgpt help)
 
-it shows:
-
-How to use the tgpt command
-
-Available options and flags
-
-Examples of common usage
-
+**it shows:**
+- How to use the tgpt command
+- Available options and flags
+- Examples of common usage
 In short, tgpt help explains how to use tgpt.
 
 <center>
   <img src="images/176.png" alt="steps for hacking" width="600">
 </center>
 
+<center>
+  <img src="images/177.png" alt="steps for hacking" width="600">
+</center>
 
 > ⚠️ Always follow ethical and legal guidelines. Perform scans or reconnaissance only on systems you own or have permission to test.
 
